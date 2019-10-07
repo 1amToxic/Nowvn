@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="logoMarginTop">40dp</dimen>
+    <dimen name="startSize">100dp</dimen>
+    <dimen name="startWidth">100dp</dimen>
+    <dimen name="startHeight">40dp</dimen>
+    <dimen name="startRadius">30dp</dimen>
+    <dimen name="imageSize">70dp</dimen>
+    <dimen name="name_Food_Height">20dp</dimen>
+    <dimen name="name_Food_marginLeft">100dp</dimen>
+    <dimen name="image_marginLeft">50dp</dimen>
+    <dimen name="checkBoxSize">40dp</dimen>
+    <dimen name="searchSize">20dp</dimen>
+    <dimen name="autoSize">40dp</dimen>
+</resources>
